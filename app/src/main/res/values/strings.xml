@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pinalurisdavaleba</string>
+    <string name="splashAppDescription">Created By Rati Gogashvili and Nika Parunashvili</string>
+    <string name="splashAppName">G-11</string>
+    <string name="logInPhrase">If you already have G-11 Account Sign in.</string>
+    <string name="SignUpPhrase">If you do not have G-11 Account Sign up.</string>
+</resources>

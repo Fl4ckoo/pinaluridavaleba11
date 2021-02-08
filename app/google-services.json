@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205380877182",
+    "project_id": "pinalurisdavaleba",
+    "storage_bucket": "pinalurisdavaleba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205380877182:android:a0d40ae4d665bd68a4912f",
+        "android_client_info": {
+          "package_name": "com.example.pinalurisdavaleba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205380877182-1hij78jdqto3jvri26e2a4qgvaio8t71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZOliJXDTxYH2eFC0EHvO4Q4evcEz-YYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205380877182-1hij78jdqto3jvri26e2a4qgvaio8t71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
